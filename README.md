@@ -1,4 +1,3 @@
 Hangman
 =======
-
-Hänga gubbe
+Nu kör vi Hänga gubbe!!
